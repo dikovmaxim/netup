@@ -4,7 +4,8 @@ The best feature of my engine is a complete url abstraction.
 It means user will not see file paths and extentions, what means your
 website is more secure.
 
-
+Release 0.0.2 r3
+Scurity module added. Users can not access filetree and folders anymore. They will be automaticly redirected to homepage.
 
 How to make a new style:
 For examle you want to make an other style for your website based on netUP.
@@ -20,6 +21,7 @@ $style = "[name of your new style folder here.]";
 You can disable header or footer by changing "true" to "false" in config.php
 example:
 config.php
+
 ...
 $header = "flase";  < In this case, header is disabled
 $footer = "true";   < and footer is enabled
