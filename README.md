@@ -10,7 +10,7 @@ Scurity module added. Users can not access filetree and folders anymore. They wi
 How to make a new style:
 For examle you want to make an other style for your website based on netUP.
 We would not recommend you to delete a standart style folder. We would suggest you to
-copy It, rename it and make all changes. To apply changes - you have to edit 
+copy It, rename it and make all changes. <br>To apply changes - you have to edit 
 config.php and change style parameter to name of your ew style folder.
 example:
 config.php
